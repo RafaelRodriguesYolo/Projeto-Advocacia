@@ -6,7 +6,8 @@
 ##
     1. Foram feitas reuniões com os Stakeholder, levantando os requisitos
     2. Elaborado UML, Diagramas ESII
-    3. Foi documentado o projeto
+    3. Normatização do BD
+    4. Foi documentado o projeto
 
 
 ### Considerações:
