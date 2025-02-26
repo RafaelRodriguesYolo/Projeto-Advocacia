@@ -1,0 +1,41 @@
+Qual é o tipo de negócio da sua empresa?
+
+
+Que tipo de processo, trabalhista, empresarial, criminal ?
+
+Quem são os usuários ?
+
+Quais são seu objetivos ?
+
+- Criar um controle de cadastros
+
+- Lista de cliente
+
+- Lista de processos 
+
+
+Como esse sistema irá lhe auxiliar ?
+
+Como vc espera que seja contrução do software ? 
+
+Com que frequência você gostaria de atualizações?
+
+O que voce acha que pode dar errado? Quais os riscos ? 
+
+O que é mais importante, dinheiro, tempo ou usabilidade ?
+
+Quais os componentes do software ? 
+
+----
+
+Discutir as funcionalidade do servico e sistema 
+
+Discutir o tipo de software,requisitos funcionais dos usuários, requisitos funcionais do sistema .
+
+Apresentar ao cliente a tecnologia, arquitetura, ferramentas e o treinamento .
+
+Propor um software voltado: 
+-Gerenciamento de carteria de cliente.
+-Agenda e controle de prazos
+-Controle financeiro
+-Gerenciamento de projeto :registrar informações dos processos, pedidos, intimações e acompanhamento de prazos,entre outras tarefas comuns ao dia a dia no escritório.
